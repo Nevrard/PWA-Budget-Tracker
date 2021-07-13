@@ -37,7 +37,6 @@ To run the apllication ,type "node server.js" in your terminal
 
 Online 
 
-
 Offline
 
 
