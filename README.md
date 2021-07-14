@@ -42,10 +42,16 @@ Online
 
 Offline
 
+![image](https://user-images.githubusercontent.com/77184762/125559699-fbb3c047-115a-4edb-baf4-8d64a3e442e9.png)
+
+When a new transaction is added while offline , It is saved in indexedDB. When back online ,the transaction is loaded in the Database and wiped from the indexedDB
+
+![image](https://user-images.githubusercontent.com/77184762/125559906-52753e1b-ed45-4e46-9183-987298d6546d.png)
+
 
 ## Deployment
 
-Users can view the deployed project [here](). 
+Users can view the deployed project [here](https://budgettrackersoft.herokuapp.com/). 
 If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run npm i in the root directory and to also have MongoDB installed and ready.
 -Clone the repository on your local device and open Terminal or Bash
 -In Terminal or Bash, the user will run the following command to download all application dependencies: "npm install"
